@@ -1,0 +1,22 @@
+{
+  "name": "faheem-random-number-generator",
+  "version": "1.0.0",
+  "description": "A simple npm library for Generating random number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faheem-cmd/npm_random_number_generator.git"
+  },
+  "keywords": [
+    "random-numbers"
+  ],
+  "author": "Muhammed Faheem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faheem-cmd/npm_random_number_generator/issues"
+  },
+  "homepage": "https://github.com/faheem-cmd/npm_random_number_generator#readme"
+}
