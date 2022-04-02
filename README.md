@@ -1,3 +1,6 @@
+# npm link
+https://www.npmjs.com/package/faheem-random-number-generator
+
 "# npm_random_number_generator" 
 # Create a test directory
 mkdir random-number-test 
